@@ -1,8 +1,8 @@
 {
     "name": "mailmotor/campaignmonitor-bundle",
     "type": "library",
-    "description": "This Symfony2 bundle loads in CampaignMonitor as a service. So you can subscribe/unsubscribe members to CampaignMonitor.",
-    "keywords": ["symfony2", "bundle", "Campaign Monitor", "php"],
+    "description": "This Symfony bundle loads in CampaignMonitor as a service. So you can subscribe/unsubscribe members to CampaignMonitor.",
+    "keywords": ["symfony", "bundle", "Campaign Monitor", "php"],
     "homepage": "https://github.com/mailmotor/campaignmonitor-bundle",
     "license": "MIT",
     "authors": [
